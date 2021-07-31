@@ -10,8 +10,8 @@ public class Main2triangle
 	    int c = side.nextInt();
 	    
         if ((a + b > c) && (b + c > a) && (a + c > b)) System.out.print("Yes, this is a triangle.");
-        //¿ø·¡ °¡Àå ±äº¯±æÀÌº¸´Ù µÎ º¯ ±æÀÌ ÇÕÀÌ Å©¸é µÇÁö¸¸ ¹®Á¦ÀÇ Á¶°Ç¿¡¼­´Â µÎ º¯ÀÇ ±æÀÌÀÇ ÇÕÀÌ ´Ù¸¥ ÇÑ º¯ÀÇ ±æÀÌ º¸´Ù Ä¿¾ß ÇÑ´Ù°í ÇßÀ¸¹Ç·Î &&À¸·Î ¼¼°¡Áö ¿¬°áÇÔ. 
+        //ì›ëž˜ ê°€ìž¥ ê¸´ë³€ê¸¸ì´ë³´ë‹¤ ë‘ ë³€ ê¸¸ì´ í•©ì´ í¬ë©´ ë˜ì§€ë§Œ ë¬¸ì œì˜ ì¡°ê±´ì—ì„œëŠ” ë‘ ë³€ì˜ ê¸¸ì´ì˜ í•©ì´ ë‹¤ë¥¸ í•œ ë³€ì˜ ê¸¸ì´ ë³´ë‹¤ ì»¤ì•¼ í•œë‹¤ê³  í–ˆìœ¼ë¯€ë¡œ &&ìœ¼ë¡œ ì„¸ê°€ì§€ ì—°ê²°í•¨. 
         else System.out.print("No, this is NOT a triangle.");
         side.close();
 	}
-}
+} 
