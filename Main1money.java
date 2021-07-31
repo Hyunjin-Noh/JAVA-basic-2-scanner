@@ -1,4 +1,5 @@
-/*예시 입력 1 
+/*p.110 실습문제3
+예시 입력 1 
 98765
 예시 출력 1
 Input money>> 98765
@@ -20,7 +21,8 @@ Input money>> 65376
 3 100won coin(s)
 1 50won coin
 2 10won coin(s)
-6 1won coin(s)*/
+6 1won coin(s)
+*/
 
 
 import java.util.Scanner;
