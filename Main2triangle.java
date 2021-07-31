@@ -1,3 +1,18 @@
+/*
+예시 입력 1 
+4 3 5
+예시 출력 1
+Yes, this is a triangle.
+예시 입력 2 
+4 9 4
+예시 출력 2
+No, this is NOT a triangle.
+예시 입력 3 
+1 2 3
+예시 출력 3
+No, this is NOT a triangle.
+*/
+
 import java.util.Scanner;
 
 public class Main2triangle
