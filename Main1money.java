@@ -35,5 +35,5 @@ public class Main1money
 	    if(coin1 != 0) System.out.println(coin1 + " 1won coin(s)"); 
         s.close();
 	}
-} 
+}
 
