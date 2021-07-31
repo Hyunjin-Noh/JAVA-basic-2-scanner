@@ -1,3 +1,28 @@
+/*예시 입력 1 
+98765
+예시 출력 1
+Input money>> 98765
+1 50,000won bill(s)
+4 10,000won bill(s)
+8 1,000won bill(s)
+1 500won coin
+2 100won coin(s)
+1 50won coin
+1 10won coin(s)
+5 1won coin(s)
+예시 입력 2 
+65376
+예시 출력 2
+Input money>> 65376
+1 50,000won bill(s)
+1 10,000won bill(s)
+5 1,000won bill(s)
+3 100won coin(s)
+1 50won coin
+2 10won coin(s)
+6 1won coin(s)*/
+
+
 import java.util.Scanner;
 
 public class Main1money
